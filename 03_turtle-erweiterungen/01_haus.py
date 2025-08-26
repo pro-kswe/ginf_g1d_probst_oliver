@@ -1,0 +1,18 @@
+import turtle
+
+turtle.pensize(3)
+turtle.pencolor("red")
+turtle.fd(150)
+turtle.lt(120)
+turtle.fd(150)
+turtle.lt(120)
+turtle.fd(150)
+turtle.lt(120)
+turtle.pencolor("brown")
+turtle.fd(150)
+turtle.rt(90)
+turtle.fd(150)
+turtle.rt(90)
+turtle.fd(150)
+turtle.rt(90)
+turtle.fd(150)

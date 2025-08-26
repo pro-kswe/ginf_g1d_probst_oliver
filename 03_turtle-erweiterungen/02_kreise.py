@@ -1,0 +1,17 @@
+import turtle
+
+turtle.speed(1)
+turtle.pencolor("red")
+turtle.circle(25)
+turtle.rt(90)
+turtle.speed(3)
+turtle.pencolor("green")
+turtle.circle(50)
+turtle.rt(90)
+turtle.speed(6)
+turtle.pencolor("pink")
+turtle.circle(75)
+turtle.rt(90)
+turtle.speed(10)
+turtle.pencolor("yellow")
+turtle.circle(100)
