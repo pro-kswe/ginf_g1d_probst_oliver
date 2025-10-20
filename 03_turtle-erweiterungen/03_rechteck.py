@@ -1,0 +1,16 @@
+import turtle
+
+turtle.shape("turtle")
+turtle.pencolor("sandy brown")
+turtle.pensize(5)
+turtle.fd(100)
+turtle.stamp()
+turtle.lt(90)
+turtle.fd(50)
+turtle.stamp()
+turtle.lt(90)
+turtle.fd(100)
+turtle.stamp()
+turtle.lt(90)
+turtle.fd(50)
+turtle.stamp()
