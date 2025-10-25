@@ -1,0 +1,63 @@
+[submodule "ginf_g1d_schildknecht_andri"]
+	path = ginf_g1d_schildknecht_andri
+	url = git@github.com:andri-schildknecht/ginf_g1d_schildknecht_andri.git
+[submodule "ginf_g1d_bischoff_curdin"]
+	path = ginf_g1d_bischoff_curdin
+	url = git@github.com:curdin-bischoff/ginf_g1d_bischoff_curdin.git
+[submodule "ginf_g1d_rahm_fabian"]
+	path = ginf_g1d_rahm_fabian
+	url = git@github.com:fabian-rahm/ginf_g1d_rahm_fabian.git
+[submodule "ginf_g1d_alhokayem_julian"]
+	path = ginf_g1d_alhokayem_julian
+	url = git@github.com:Julian-AlHokayem/ginf_g1d_alhokayem_julian.git
+[submodule "ginf_g1d_chaudhry_kashmala"]
+	path = ginf_g1d_chaudhry_kashmala
+	url = git@github.com:kashmala-chaudhry/ginf_g1d_chaudhry_kashmala.git
+[submodule "ginf_g1d_bronnimann_ruben"]
+	path = ginf_g1d_bronnimann_ruben
+	url = git@github.com:Ruben-Broennimann/ginf_g1d_bronnimann_ruben.git
+[submodule "ginf_g1d_buetikofer_samira"]
+	path = ginf_g1d_buetikofer_samira
+	url = git@github.com:samira-buetikofer/ginf_g1d_buetikofer_samira.git
+[submodule "ginf_g1d_cuska_victor"]
+	path = ginf_g1d_cuska_victor
+	url = git@github.com:victor-cuska/ginf_g1d_cuska_victor.git
+[submodule "ginf_g1d_el_ajami_nour"]
+	path = ginf_g1d_el_ajami_nour
+	url = git@github.com:nour-el-ajami/ginf_g1d_el_ajami_nour.git
+[submodule "ginf_g1d_gardizi_nila"]
+	path = ginf_g1d_gardizi_nila
+	url = git@github.com:nila-gardizi/ginf_g1d_gardizi_nila.git
+[submodule "ginf_g1d_goncalves_noemi"]
+	path = ginf_g1d_goncalves_noemi
+	url = git@github.com:noemi-goncalves/ginf_g1d_goncalves_noemi.git
+[submodule "ginf_g1d_hurter_lars"]
+	path = ginf_g1d_hurter_lars
+	url = git@github.com:lars-hurter/ginf_g1d_hurter_lars.git
+[submodule "ginf_g1d_igel_lea"]
+	path = ginf_g1d_igel_lea
+	url = git@github.com:lea-igel/ginf_g1d_igel_lea.git
+[submodule "ginf_g1d_kleebauer_nina"]
+	path = ginf_g1d_kleebauer_nina
+	url = git@github.com:nina-kleebauer/ginf_g1d_kleebauer_nina.git
+[submodule "ginf_g1d_koering_norina"]
+	path = ginf_g1d_koering_norina
+	url = git@github.com:norina-koering/ginf_g1d_koering_norina.git
+[submodule "ginf_g1d_kreul_sofia"]
+	path = ginf_g1d_kreul_sofia
+	url = git@github.com:sofia-kreul/ginf_g1d_kreul_sofia.git
+[submodule "ginf_g1d_mauss_ronja"]
+	path = ginf_g1d_mauss_ronja
+	url = git@github.com:ronja-mauss/ginf_g1d_mauss_ronja.git
+[submodule "ginf_g1d_nikollaj_melissa"]
+	path = ginf_g1d_nikollaj_melissa
+	url = git@github.com:melissa-nikollaj/ginf_g1d_nikollaj_melissa.git
+[submodule "ginf_g1d_schmidli_noelle"]
+	path = ginf_g1d_schmidli_noelle
+	url = git@github.com:noelle-schmidli/ginf_g1d_schmidli_noelle.git
+[submodule "ginf_g1d_strebel_selma"]
+	path = ginf_g1d_strebel_selma
+	url = git@github.com:selma-strebel/ginf_g1d_strebel_selma.git
+[submodule "ginf_g1d_flory_sophie"]
+	path = ginf_g1d_flory_sophie
+	url = git@github.com:sophie-flory/ginf_g1d_flory_sophie.git
