@@ -1,0 +1,4 @@
+01_mein_erstes_programm:01_quadrat.py
+02_turtle-grundlagen:01_beispiel_1.py,02_rechteck.py,03_pyramide.py,04_dreieck.py,05_rhombus.py,06_beispiel_2.py,07_hi.py,08_stern.py,09_stern_2.py
+03_turtle-erweiterungen:01_haus.py,02_kreise.py,03_rechteck.py,04_schildkroetenhaus.py,05_blume.py
+04_variablen:01_quadrat_var.py,02_dreieck.py,03_rechteck.py,04_farbiger_stern.py,05_farbiger_rhombus.py,06_zufallsquadrat.py,07_zufallsrechteck.py,08_kreise.py,09_zufallspunkt.py
