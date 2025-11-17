@@ -1,8 +1,5 @@
 import turtle
 
-a = 175
-turtle.forward(a)
-turtle.left(120)
-turtle.forward(a)
-turtle.left(120)
-turtle.forward(a)
+for _ in range(3):
+    turtle.fd(175)
+    turtle.lt(120)
