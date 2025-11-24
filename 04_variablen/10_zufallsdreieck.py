@@ -1,5 +1,5 @@
-import turtle
 import random
+import turtle
 
 x_1 = random.randrange(-100, 101)
 x_2 = random.randrange(-100, 101)

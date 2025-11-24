@@ -1,5 +1,5 @@
-import turtle
 import random
+import turtle
 
 a = random.randrange(75, 176)
 for _ in range(4):

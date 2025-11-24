@@ -1,5 +1,5 @@
-import turtle
 import random
+import turtle
 
 radius = random.randrange(50, 76)
 farbe_1 = "red"

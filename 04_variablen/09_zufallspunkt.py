@@ -1,5 +1,5 @@
-import turtle
 import random
+import turtle
 
 durchmesser = random.randrange(10, 31)
 x = random.randrange(-100, 101)
