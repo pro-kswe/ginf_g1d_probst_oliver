@@ -1,11 +1,15 @@
 import random as rd
 
-speisen = ["Pommes", "Linsen-Dal", "Spaghetti"]
+# Eckige Klammern ergeben eine Liste.
+# Die folgende Liste speichert vier Strings.
+speisen = ["Pommes", "Linsen-Dal", "Spaghetti", "Coq au Vin"]
 speise = rd.choice(speisen)
-# wochentage = 
-# wochentag = 
-print(f"Am gibt es {speise} in der Mensa.")
+# Noch eine Liste. Die Liste speichert sieben Strings.
+wochentage = ["Mo", "Di", "Mi", "Do", "Fr", "Sa", "So"]
+wochentag = rd.choice(wochentage)
+print(f"Am {wochentag} gibt es {speise} in der Mensa.")
 print("Wie finden wir das?")
-anzahl = 3
+zahlen = [5, 42, 16, 8, 99]
+anzahl = rd.choice(zahlen)
 for _ in range(anzahl):
     print("Juhu")
