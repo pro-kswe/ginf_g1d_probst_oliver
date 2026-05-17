@@ -1,4 +1,3 @@
-# Übung 6, Streifen
 import random as rd
 import PIL.Image as img
 
