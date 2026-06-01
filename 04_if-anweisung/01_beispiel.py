@@ -5,5 +5,3 @@ if vorname == "Alice":
     print(f"{vorname} ist ein schöner Name.")
 
 print("Tschüss")
-
-# Zum Programmieren: konsole.ginf.ch verwenden
