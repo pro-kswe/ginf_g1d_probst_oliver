@@ -70,7 +70,7 @@ Für jeden **Fehler** gibt es mindestens einen **Abzug von 0,5 Punkten**. Wenn *
 | **Kriterium**               | **Punktzahl** | **Kommentar** |
 |:----------------------------|:-------------:|:--------------|
 | Struktur                    |      2/2      | :grinning:    |
-| Gelöste Übungen             |      1/1      | :grinning:    |
+| Gelöste Übungen             |      2/2      | :grinning:    |
 | Clean-Code-Regeln           |      5/5      | :grinning:    |
 | Commit-and-Push-Nachrichten |      1/1      | :grinning:    |
 
