@@ -40,9 +40,6 @@
 [submodule "ginf_g1d_kleebauer_nina"]
 	path = 98_repos_sus/ginf_g1d_kleebauer_nina
 	url = git@github.com:nina-kleebauer/ginf_g1d_kleebauer_nina.git
-[submodule "ginf_g1d_koering_norina"]
-	path = 98_repos_sus/ginf_g1d_koering_norina
-	url = git@github.com:norina-koering/ginf_g1d_koering_norina.git
 [submodule "ginf_g1d_kreul_sofia"]
 	path = 98_repos_sus/ginf_g1d_kreul_sofia
 	url = git@github.com:sofia-kreul/ginf_g1d_kreul_sofia.git
